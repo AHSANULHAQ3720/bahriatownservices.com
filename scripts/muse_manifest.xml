@@ -1,0 +1,72 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bahriatownpowerdivsion.com.pk" resolutions="1x,2x" timestamp="1494352611762">
+  <folder name="css">
+    <file name="site_global.css" crc="4131090332"/>
+    <file name="master_a-master.css" crc="4260791924" ref="download:managment-profile:electric-rule-detail:contact-us:vision-,-mission-core-values:gas-dept:orgnization-organogram:careers:electric-dept:index:gas-rule:sorrypage"/>
+    <file name="download.css" crc="349500337" ref="download"/>
+    <file name="managment-profile.css" crc="4232538121" ref="managment-profile"/>
+    <file name="electric-rule-detail.css" crc="287604694" ref="electric-rule-detail"/>
+    <file name="contact-us.css" crc="428647402" ref="contact-us"/>
+    <file name="vision-_-mission-core-values.css" crc="3826979758" ref="vision-,-mission-core-values"/>
+    <file name="gas-dept.css" crc="27374147" ref="gas-dept"/>
+    <file name="orgnization-organogram.css" crc="527271528" ref="orgnization-organogram"/>
+    <file name="careers.css" crc="252181477" ref="careers"/>
+    <file name="electric-dept.css" crc="483706768" ref="electric-dept"/>
+    <file name="index.css" crc="71950632" ref="index"/>
+    <file name="gas-rule.css" crc="4173505208" ref="gas-rule"/>
+    <file name="sorrypage.css" crc="83341309" ref="sorrypage"/>
+  </folder>
+  <folder name="assets">
+    <file name="dgconnection_newp.pdf" crc="32527970" seo="true" mt="1489635373000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact-us:orgnization-organogram:download:careers:electric-dept:electric-rule-detail:gas-dept:gas-rule:managment-profile:vision-,-mission-core-values:sorrypage"/>
+    <file name="museutils.js" crc="163421577" ref="index:contact-us:orgnization-organogram:download:careers:electric-dept:electric-rule-detail:gas-dept:gas-rule:managment-profile:vision-,-mission-core-values:sorrypage"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact-us:orgnization-organogram:download:careers:electric-dept:electric-rule-detail:gas-dept:gas-rule:managment-profile:vision-,-mission-core-values:sorrypage"/>
+    <file name="museconfig.js" crc="36584860" ref="index:contact-us:orgnization-organogram:download:careers:electric-dept:electric-rule-detail:gas-dept:gas-rule:managment-profile:vision-,-mission-core-values:sorrypage"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:contact-us:orgnization-organogram:download:careers:electric-dept:electric-rule-detail:gas-dept:gas-rule:managment-profile:vision-,-mission-core-values:sorrypage"/>
+    <file name="webpro.js" crc="3848665353" ref="index:contact-us:orgnization-organogram:download:careers:electric-dept:electric-rule-detail:gas-dept:gas-rule:managment-profile:vision-,-mission-core-values:sorrypage"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:contact-us:orgnization-organogram:download:careers:electric-dept:electric-rule-detail:gas-dept:gas-rule:managment-profile:vision-,-mission-core-values:sorrypage"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:contact-us:orgnization-organogram:download:careers:electric-dept:electric-rule-detail:gas-dept:gas-rule:managment-profile:vision-,-mission-core-values:sorrypage"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:contact-us:orgnization-organogram:download:careers:electric-dept:electric-rule-detail:gas-dept:gas-rule:managment-profile:vision-,-mission-core-values:sorrypage"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:contact-us:orgnization-organogram:download:careers:electric-dept:electric-rule-detail:gas-dept:gas-rule:managment-profile:vision-,-mission-core-values:sorrypage"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact-us:orgnization-organogram:download:careers:electric-dept:electric-rule-detail:gas-dept:gas-rule:managment-profile:vision-,-mission-core-values:sorrypage"/>
+    <file name="require.js" crc="244322403" ref="index:contact-us:orgnization-organogram:download:careers:electric-dept:electric-rule-detail:gas-dept:gas-rule:managment-profile:vision-,-mission-core-values:sorrypage"/>
+    <file name="form_check.php" crc="158155501" ref="contact-us"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contact-us"/>
+    <file name="form_process.php" crc="4078697226" ref="contact-us"/>
+    <file name="form-u69044.php" crc="3790281437" ref="contact-us"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="electric-rule-detail"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="managment-profile"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="153530377" ref="index:sorrypage:download"/>
+    <file name="bahria_town_logo.jpg" crc="3967933731" seo="true" ref="index:contact-us:orgnization-organogram:download:careers:electric-dept:electric-rule-detail:gas-dept:gas-rule:managment-profile:vision-,-mission-core-values:sorrypage"/>
+    <file name="infrastructure.png" crc="281076961" seo="true" ref="index:contact-us:orgnization-organogram:download:careers:electric-dept:electric-rule-detail:gas-dept:gas-rule:managment-profile:vision-,-mission-core-values:sorrypage"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contact-us:orgnization-organogram:download:careers:electric-dept:electric-rule-detail:gas-dept:gas-rule:managment-profile:vision-,-mission-core-values:sorrypage"/>
+    <file name="ment-serv.png" crc="519496764" seo="true" ref="index:contact-us:orgnization-organogram:download:careers:electric-dept:electric-rule-detail:gas-dept:gas-rule:managment-profile:vision-,-mission-core-values:sorrypage"/>
+    <file name="generator.png" crc="3797562632" seo="true" ref="index:contact-us:orgnization-organogram:download:careers:electric-dept:electric-rule-detail:gas-dept:gas-rule:managment-profile:vision-,-mission-core-values:sorrypage"/>
+    <file name="loading.gif" crc="3815509949" ref="index:sorrypage:download"/>
+    <file name="firstlink.png" crc="4077539710" seo="true" ref="index"/>
+    <file name="firstlink_2x.png" crc="158954164" seo="true" ref="index"/>
+    <file name="breadcrumbhorizontalline.jpg" crc="292603213" seo="true" ref="contact-us:orgnization-organogram:careers:managment-profile:vision-,-mission-core-values"/>
+    <file name="organogram-1.jpg" crc="221739095" seo="true" ref="orgnization-organogram"/>
+    <file name="organogram-1_2x.jpg" crc="4068217863" seo="true" ref="orgnization-organogram"/>
+    <file name="screenshot_20170315-183839.jpg" crc="445338571" seo="true" ref="electric-rule-detail"/>
+    <file name="screenshot_20170315-183839_2x.jpg" crc="182234781" seo="true" ref="electric-rule-detail"/>
+    <file name="images.jpg" crc="102485721" ref="managment-profile"/>
+    <file name="pasted image 1070x677.jpg" crc="4248736873" seo="true" ref="sorrypage"/>
+    <file name="pasted image 1070x677_2x.jpg" crc="349679899" seo="true" ref="sorrypage"/>
+  </folder>
+  <file name="index.html" crc="474372455" seo="true" mt="1492854237544" redirect="true"/>
+  <file name="contact-us.html" crc="4061449089" seo="true" mt="1492854237544" redirect="true"/>
+  <file name="orgnization-organogram.html" crc="172274254" seo="true" mt="1492854237544" redirect="true"/>
+  <file name="download.html" crc="4192471070" seo="true" mt="1494346282247" redirect="true"/>
+  <file name="careers.html" crc="3982261958" seo="true" mt="1492854237544" redirect="true"/>
+  <file name="electric-dept.html" crc="507493543" seo="true" mt="1494346123660" redirect="true"/>
+  <file name="electric-rule-detail.html" crc="3785565871" seo="true" mt="1492854237544" redirect="true"/>
+  <file name="gas-dept.html" crc="3809116686" seo="true" mt="1492854237544" redirect="true"/>
+  <file name="gas-rule.html" crc="33364974" seo="true" mt="1492854237544" redirect="true"/>
+  <file name="managment-profile.html" crc="4283814923" seo="true" mt="1494346096306" redirect="true"/>
+  <file name="vision-,-mission-core-values.html" crc="62879142" seo="true" mt="1492854237544" redirect="true"/>
+  <file name="sorrypage.html" crc="373920317" seo="true" mt="1493027728614" redirect="true"/>
+</manifest>

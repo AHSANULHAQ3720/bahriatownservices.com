@@ -1,0 +1,169 @@
+
+.title
+{
+	display: inline;
+	font-family: Arial;
+	font-size: 24px;
+	font-weight: bold;
+}
+body
+{
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+}
+none
+{
+	list-style-type: none;
+}
+.barcode
+{
+	width: 350px;
+	height: 55px;
+	display: inline;
+	vertical-align: middle;
+}
+strong
+{
+	padding-right: 50px;
+	margin-left: 360px;
+	font-family: Arial;
+	font-size: 18px;
+	font-weight: bolder;
+}
+b
+{
+	font-family: Arial;
+	font-size: 13.5px;
+	font-weight: bold;
+}
+.color
+{
+	background: #ccc;
+}
+img
+{
+	width: 90px;
+	height: 95px;
+	border:none;
+}
+
+p.heading
+{
+	font-family: Arial;
+	font-size: 13.5px;
+	font-weight: bold;
+}
+p.headingc
+{
+	font-family: Arial;
+	font-size: 12px;
+}
+
+body{
+    color:#000000;
+    margin-left:0;
+    margin-right:0;
+    margin-top:0;
+    margin-bottom:0;
+    margin-width:0;
+    margin-height:0;
+    font-family: Arial;
+    background:url("../images/watermark.jpg");
+    background-repeat: no-repeat;
+    background-position: 30% 30%; 
+    background-attachment: fixed;
+    -webkit-print-color-adjust: exact;
+}
+
+@media print {
+       table.main {
+     	background:url("../images/watermark.jpg");
+	    background-repeat: no-repeat;
+	    background-position:30% 30%;
+       }
+       body
+       {
+       	
+       }
+     
+}
+table.main
+{
+	border-collapse: collapse;
+	border-layout:fixed;
+	border-spacing:0px;
+	table-layout: fixed;
+}
+
+.leftborder
+{
+	border-left: 1px solid black;
+	border-right: none;
+	border-top: none;
+	border-bottom: none;
+}
+.table2
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+
+}
+td.no-border {
+	border:none;
+	text-align:center;
+}
+tr.no-border {
+	border:none;
+}
+table.no-border
+{
+	border:none;
+}
+table,tr,td
+{
+	padding: 2px; 
+  	border: 1px solid black; 
+  	text-align: left;
+	border-collapse: collapse;
+}
+td
+{	
+	white-space:nowrap;
+	height: 22px;
+	line-height: 1.5em;
+    vertical-align: top;
+    padding-left: 6px;
+    overflow: hidden;
+    max-width: 100%;
+    width: 100px;
+    
+}
+h2 {
+    font-size: 30px;
+    line-height: 20px;
+    display: inline;
+}
+#amount
+{
+	text-align: right;
+}
+ul {
+font-family: Arial;
+font-size: 13px;
+font-style: normal;
+line-height: 2em;
+font-weight: normal;
+font-variant: normal;
+text-transform: none;
+color: black;
+text-decoration: none;
+text-indent: 5px;
+list-style-position: outside;
+list-style-image: url(arrow.gif);
+list-style-type: square;
+padding-left: 25px;
+margin: 1px;
+}
+
